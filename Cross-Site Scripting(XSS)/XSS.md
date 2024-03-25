@@ -1,9 +1,5 @@
 # XSS
 
-Tags: Clinet Side
-Multi-select: yashar
-
-[https://github.com/jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf)
 
 ### tools:
 
